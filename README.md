@@ -14,4 +14,5 @@ This project demonstrates how to host a simple webpage on AWS using AWS Amplify.
   - **User:** test
   - **Password:** 1234567
 ## The diagram below illustrates the CI/CD pipeline used in this project:
-![AWS_simple_webpage_hosting](https://github.com/DimitryZH/AWS_simple_webpage_hosting/assets/146372946/4a1fef0a-fed1-487f-8cb7-2b5946b2af1a)
+
+![aws-amplify-simple-webpage-hosting](https://github.com/DimitryZH/AWS_simple_webpage_hosting/assets/146372946/662c7123-1d39-4a52-bae2-1bc1a7913e8d)
